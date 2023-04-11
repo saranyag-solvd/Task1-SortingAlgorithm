@@ -1,1 +1,1 @@
-# Task1-SortingAlgorithm
+# Task 1 - Sorting Algorithm
