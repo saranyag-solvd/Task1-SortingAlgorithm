@@ -21,10 +21,6 @@ public class InsertionSort {
 	public static void main(String[] args) {
 		int[] a = { 99, 1, 5, 6, 10, 8, 2 };
 		sort(a);
-
-
-		// TODO Auto-generated method stub
-
 	}
 
 }
