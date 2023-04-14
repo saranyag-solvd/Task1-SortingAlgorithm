@@ -7,4 +7,7 @@ java BubbleSort
 
 javac InsertionSort.java
 java InsertionSort
+
+javac SelectionSort.java
+java SelectionSort
 ```
